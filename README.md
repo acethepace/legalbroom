@@ -29,7 +29,24 @@ Quickly find information on specific legal doctrines or landmark cases directly 
 | **Search Result** | ![Miranda Search Result](./assets/screenshots/search_result.png) | Synthesis of search results with integrated citations. |
 | **Citation Details** | ![Citation View](./assets/screenshots/citation_view.png) | Sidebar showing metadata and case snippets. |
 
+## 💡 Example Queries & Scenarios
+
+### 🏠 General Search (Homepage)
+*   **Case Law**: "Summarize the key holding in *Gideon v. Wainwright*."
+*   **Doctrines**: "What is the 'Business Judgment Rule'?"
+*   **Statutes**: "What are the four factors of 'Fair Use' in Copyright Law?"
+*   **Procedure**: "Difference between a Motion to Dismiss and Summary Judgment."
+*   **Rights**: "What constitutes 'State Action' in 14th Amendment claims?"
+
+### 🔍 Deep Case Analysis (/analysis)
+*   **Employment**: "Analyze the enforceability of a 3-year Tri-State non-compete for a manager in NY."
+*   **Torts**: "Premises liability analysis for a spill with 15-minute 'constructive notice' evidence."
+*   **Privacy**: "Fourth Amendment implications of searching encrypted files without a secondary warrant."
+*   **Corporate**: "Evaluate if a DAO governance token with fee-sharing meets the *Howey Test*."
+*   **Admin Law**: "Challenge to DOL overtime rules following the end of *Chevron* deference."
+
 ## 🚀 Key Features
+
 
 
 - **Live Case Law Research**: Integrated with the CourtListener V4 API to search millions of legal precedents on-demand.
