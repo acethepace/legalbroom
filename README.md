@@ -14,9 +14,9 @@ In this workflow, the AI extracts search queries from a complex scenario, retrie
 
 | Step | View | Description |
 |------|------|-------------|
-| **Input** | ![Case Details Input](https://screenshot.gemini.autonome.ai/analysis_input_constitutional.png) | Lawyer enters detailed facts and legal questions. |
-| **Grading** | ![Relevance Grading](https://screenshot.gemini.autonome.ai/analysis_processing_constitutional.png) | AI evaluates multiple CourtListener results for relevance. |
-| **Analysis** | ![Final Analysis](https://screenshot.gemini.autonome.ai/analysis_result_constitutional.png) | Final synthesized report with filtered citations. |
+| **Input** | ![Case Details Input](./assets/screenshots/analysis_input.png) | Lawyer enters detailed facts and legal questions. |
+| **Grading** | ![Relevance Grading](./assets/screenshots/analysis_grading.png) | AI evaluates multiple CourtListener results for relevance. |
+| **Analysis** | ![Final Analysis](./assets/screenshots/analysis_result.png) | Final synthesized report with filtered citations. |
 
 ### 2. General Legal Search
 Quickly find information on specific legal doctrines or landmark cases directly from the dashboard.
@@ -26,8 +26,8 @@ Quickly find information on specific legal doctrines or landmark cases directly 
 
 | Feature | View | Description |
 |---------|------|-------------|
-| **Search Result** | ![Miranda Search Result](https://screenshot.gemini.autonome.ai/search_result_miranda.png) | Synthesis of search results with integrated citations. |
-| **Citation Details** | ![Citation View](https://screenshot.gemini.autonome.ai/citation_details_highlighted_miranda.png) | Sidebar showing metadata and case snippets. |
+| **Search Result** | ![Miranda Search Result](./assets/screenshots/search_result.png) | Synthesis of search results with integrated citations. |
+| **Citation Details** | ![Citation View](./assets/screenshots/citation_view.png) | Sidebar showing metadata and case snippets. |
 
 ## 🚀 Key Features
 
